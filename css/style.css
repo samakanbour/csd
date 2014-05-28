@@ -228,6 +228,8 @@ section p a {
     right: 0;
     top: 0;
     cursor: pointer;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 5px 5px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.1) 5px 5px 0px 0px;
 }
 
 .mobile-navigation {
