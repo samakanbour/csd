@@ -24,8 +24,6 @@ a {
 
 #top {
 	top: 0px;
-	margin-top: -50px;
-	position: absolute;
 	display: inline-block;
 	background-color: #555;
 	width: 100%;
@@ -235,7 +233,7 @@ section p a {
 .mobile-navigation {
     display: none;
     position: fixed;
-    z-index: 200;
+    z-index: 2000;
     right: 10007px;
     height: 101%;
     width: 100%;
